@@ -1,6 +1,6 @@
 # Superstore Business Intelligence Analysis - Power BI
 
-![Dashboard Preview](Dashboard_Screenshot1.png) ![Dashboard Preview](Dashboard_Screenshot2.png) ![Dashboard Preview](Dashboard_Screenshot3.png)
+![Dashboard Preview 1](Dashboard_Screenshot1.png)   ![Dashboard Preview 2](Dashboard_Screenshot2.png)   ![Dashboard Preview 3](Dashboard_Screenshot3.png)
 
 ## Project Files
 
