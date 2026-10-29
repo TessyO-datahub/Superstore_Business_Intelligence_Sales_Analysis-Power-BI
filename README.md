@@ -1,5 +1,7 @@
 # Superstore Business Intelligence Analysis - Power BI
 
+![Dashboard Preview](Dashboard_Screenshot1.png) ![Dashboard Preview](Dashboard_Screenshot2.png) ![Dashboard Preview](Dashboard_Screenshot3.png)
+
 ## Project Files
 
 - [Power BI Dashboard](/Superstore_Executive_Dashboard.pbix)
@@ -19,7 +21,7 @@ The dashboard was developed to support executive decision-making by transforming
 ## Business Objectives
 
 The analysis aimed to answer the following questions:
-- How has sales and profit performance changed over time?
+- How have sales and profit performance changed over time?
 - Which regions, states, and cities generate the highest revenue and profit?
 - Which customer segments contribute most to profitability?
 - Which product categories and sub-categories perform best?
@@ -29,13 +31,21 @@ The analysis aimed to answer the following questions:
 
 ## Tools Used
 - Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- Extract, Transform, and Load (ETL)
-- Dashboard Design
-- Business Reporting
+- Power Query – Extract, Transform, and Load (ETL)
+- Visuals – Bar, column, pie, combo charts, maps, and matrix tables
+- Slicers
+- New Measures
+- New Table
+- New Column
+- DISTINCTCOUNT()
+- SUM() and AVERAGE()
+- DIVIDE()
+- CALCULATE(AVERAGE())
+- Grouping feature – Column tools > Data groups
+
 
 ## Methodology
+[Superstore Project Methodology](/Project_Methodology.pdf)
 
 ### Data Preparation 
 - ETL - Extracted the data from the CSV file, Transformed it in Power Query, and Loaded it into Power BI.
