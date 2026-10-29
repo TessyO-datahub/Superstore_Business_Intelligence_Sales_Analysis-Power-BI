@@ -6,6 +6,7 @@
 - [Project Report](/Superstore_Business_Intelligence_Report.pdf)
 - [BI Understanding Overview](/BI_Overview.pdf)
 - [Dashboard Screenshots](/Week2_Dashboard.pdf)
+- [Project Methodology](/Project_Methodology.pdf)
 
 ## Project Overview
 
