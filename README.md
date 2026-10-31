@@ -5,7 +5,6 @@
 ## Project Files
 
 - [Power BI Dashboard](/Superstore_Executive_Dashboard.pbix)
-- [BI Understanding Overview](/BI_Overview.pdf)
 - [Dashboard Screenshots](/Week2_Dashboard.pdf)
 - [Superstore Executive Report](/Superstore_Business_Intelligence_Report.pdf)
 - [Superstore Project Methodology](/Project_Methodology.pdf)
